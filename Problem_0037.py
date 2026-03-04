@@ -1,5 +1,3 @@
-# Write a Python program to count the frequency of each character in a string and display them in descending order.
-
 def character_frequency(text):
   
     freq = {}
