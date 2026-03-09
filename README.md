@@ -15,8 +15,4 @@ This repository contains solutions to various coding problems, focusing on probl
 ## Repository Structure
 Each directory contains problem statements, solutions, and explanations in the respective language.
 
-## Contact
-- **LinkedIn**: [Shah Md Arshad Rahman Ziban](https://www.linkedin.com/in/shah-md-arshad-rahman-ziban-484649263)
-- **Kaggle**: [Arshad Rahman Ziban](https://www.kaggle.com/arshadrahmanziban)
-
 Happy Coding! 🚀
