@@ -5,7 +5,6 @@ def character_frequency(text):
         if char.isalnum():
             freq[char] = freq.get(char, 0) + 1
     
-    # Sort by frequency in descending order
     return dict(sorted(freq.items(), key=lambda x: x[1], reverse=True))
 
 
